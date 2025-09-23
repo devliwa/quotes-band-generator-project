@@ -1,4 +1,5 @@
 ## band-name-generator-project
+<img width="1370" height="731" alt="Screenshot 2025-09-22 at 7 01 46 PM" src="https://github.com/user-attachments/assets/cd1bb576-fa51-4208-b3eb-6126fd092c1a" />
 
 #### Step 1 - Make the get route work and render the index.ejs file.
 
